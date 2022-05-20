@@ -3,9 +3,9 @@
 
 <h3>- 🙋‍♂️ An Overview About Me:</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
 - 🔭 I’m an AR/VR Developer at **@Innogeeks.**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **anushkaydv1610@gmail.com**
 
