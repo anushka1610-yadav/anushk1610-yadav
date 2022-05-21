@@ -1,7 +1,8 @@
+<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://github.com/anushka1610-yadav/anushka1610-yadav/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png"/></a>
 <h1 align="center">Hi 👋, I'm Anushka Yadav</h1>
 <h3 align="center">I believe in setting standards and utilizing learning to the optimum level.</h3>
 
-
+<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="file:///C:/Users/DELL/Downloads/github%20gif.gif"/></a>
 <h3>- 🙋‍♂️ An Overview About Me:</h3>
 
 - 🔭 I’m an AR/VR Developer at **@Innogeeks.**
