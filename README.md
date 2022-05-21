@@ -1,18 +1,24 @@
 <a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://github.com/anushka1610-yadav/anushka1610-yadav/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png"/></a>
+<br>
+<br>
 <h1 align="center">Hi 👋, I'm Anushka Yadav</h1>
 <h3 align="center">I believe in setting standards and utilizing learning to the optimum level.</h3>
 
-<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="file:///C:/Users/DELL/Downloads/github%20gif.gif"/></a>
-<h3>- 🙋‍♂️ An Overview About Me:</h3>
 
-- 🔭 I’m an AR/VR Developer at **@Innogeeks.**
+<a href="#"><img align="right" width="500"  height="300" alt="image" src="https://github.com/anushka1610-yadav/anushka1610-yadav/blob/main/WhatsApp%20Image%202022-05-21%20at%2011.40.03%20PM.jpeg"/></a>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📫 How to reach me **anushkaydv1610@gmail.com**
+## 💁‍♀️ An Overview About Me:
 
-- ⚡ **I think I am an amiable person.**
+- 🔭 I’m an AR/VR Developer at <a href = "https://innogeeks.in/"><b>Innogeeks</b></a>
 
+- 🌱 I’m currently learning *Data Structures and Algorithms*
+
+<!-- - 👨‍💻 All of my projects are available at *[My Portfolio](https://Link)* -->
+
+- ⚡ I am an *amiable person.*
+
+- 📫 How to *reach me* *anushkaydv1610@gmail.com*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anushka1610/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushka1610/" height="30" width="40" /></a>
